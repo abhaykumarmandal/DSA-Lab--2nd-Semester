@@ -1,7 +1,10 @@
 # DSA-Lab-2nd-Semester-Assignments-
 
 
-
+ LAB-1
+ 
+ 
+ 
 1.Take n numbers as input in to an 1-d  array A from user; write a C program
 to compute and display the minimum, maximum, sum, and average of the elements.
 
